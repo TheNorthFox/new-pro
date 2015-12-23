@@ -3,7 +3,7 @@
 //  newpro
 //
 //  
-//  Copyright © 2015 minyahil kebebegn. All rights reserved.
+// 
 //
 
 #include <iostream>
